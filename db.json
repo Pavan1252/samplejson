@@ -16,12 +16,74 @@
     {
       "type": "work",
       "number": "987-654-3210"
+    },
+    {
+      "type": "mobile",
+      "number": "555-123-4567"
     }
   ],
-  "languages": ["English", "Spanish", "French"],
+  "languages": ["English", "Spanish", "French", "German"],
   "is_active": true,
   "social_media": {
     "facebook": "@johndoe",
-    "twitter": "@john_doe"
-  }
+    "twitter": "@john_doe",
+    "linkedin": "john-doe-linkedin",
+    "instagram": "@john_doe_insta"
+  },
+  "job": {
+    "title": "Software Engineer",
+    "department": "Development",
+    "company": "Tech Solutions Inc.",
+    "start_date": "2015-06-01",
+    "salary": 85000
+  },
+  "projects": [
+    {
+      "name": "Project Alpha",
+      "role": "Lead Developer",
+      "status": "Completed",
+      "start_date": "2020-01-01",
+      "end_date": "2020-12-31"
+    },
+    {
+      "name": "Project Beta",
+      "role": "Developer",
+      "status": "Ongoing",
+      "start_date": "2021-02-01",
+      "end_date": "2023-11-01"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "XYZ University",
+      "graduation_year": 2015
+    },
+    {
+      "degree": "Master of Science in Software Engineering",
+      "institution": "ABC University",
+      "graduation_year": 2017
+    }
+  ],
+  "skills": [
+    "Python",
+    "JavaScript",
+    "SQL",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Machine Learning"
+  ],
+  "hobbies": ["Reading", "Traveling", "Photography", "Gaming"],
+  "emergency_contact": {
+    "name": "Jane Doe",
+    "relationship": "Sister",
+    "phone": "321-654-9870",
+    "email": "jane.doe@example.com"
+  },
+  "years_of_experience": 10,
+  "monthly_expenses": 2000,
+  "number_of_projects_completed": 15,
+  "total_income": 95000,
+  "years_at_company": 9
 }
