@@ -1,37 +1,38 @@
-    {
-      "title": "Introduction to Python",
-      "duration": "8 weeks",
-      "level": "Beginner",
-      "startDate": "2024-01-15",
-      "topics": ["Variables", "Data Types", "Control Structures", "Functions", "Modules"],
-      "instructor": {
-        "name": "Dr. Smith",
-        "email": "dr.smith@example.com",
-        "experience": "10 years",
-        "department": "Computer Science"
+{
+  "courses": {
+    "title": "Introduction to Python",
+    "duration": "8 weeks",
+    "level": "Beginner",
+    "startDate": "2024-01-15",
+    "topics": ["Variables", "Data Types", "Control Structures", "Functions", "Modules"],
+    "instructor": {
+      "name": "Dr. Smith",
+      "email": "dr.smith@example.com",
+      "experience": "10 years",
+      "department": "Computer Science"
+    },
+    "students": [
+      { 
+        "name": "Alice", 
+        "age": 20, 
+        "grade": "A", 
+        "email": "alice@example.com", 
+        "attendance": 95 
       },
-      "students": [
-        { 
-          "name": "Alice", 
-          "age": 20, 
-          "grade": "A", 
-          "email": "alice@example.com", 
-          "attendance": 95 
-        },
-        { 
-          "name": "Bob", 
-          "age": 22, 
-          "grade": "B", 
-          "email": "bob@example.com", 
-          "attendance": 85 
-        },
-        { 
-          "name": "Charlie", 
-          "age": 23, 
-          "grade": "A", 
-          "email": "charlie@example.com", 
-          "attendance": 90 
-        }
-      ]
-    }
-
+      { 
+        "name": "Bob", 
+        "age": 22, 
+        "grade": "B", 
+        "email": "bob@example.com", 
+        "attendance": 85 
+      },
+      { 
+        "name": "Charlie", 
+        "age": 23, 
+        "grade": "A", 
+        "email": "charlie@example.com", 
+        "attendance": 90 
+      }
+    ]
+  }
+}
